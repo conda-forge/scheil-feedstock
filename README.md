@@ -5,11 +5,13 @@ Home: https://scheil.readthedocs.io
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/scheil-feedstock/blob/master/LICENSE.txt)
 
 Summary: A Scheil-Gulliver simulation tool using pycalphad
 
+Development: https://github.com/pycalphad/scheil
 
+Documentation: A Scheil-Gulliver simulation tool using pycalphad
 
 Current build status
 ====================
