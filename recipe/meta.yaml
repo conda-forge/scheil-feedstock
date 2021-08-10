@@ -1,6 +1,6 @@
 {% set name = "scheil" %}
-{% set version = "0.1.5" %}
-{% set sha256 = "c38721dc48f6df628d4f095d63a5342e2fb36b287fbd2f00bd1849c4e8b7271a" %}
+{% set version = "0.1.6" %}
+{% set sha256 = "b619fe59ef446f684dd3095741bfd6e20beff3e285890e601fceaf167f37909b" %}
 
 package:
   name: {{ name|lower }}
