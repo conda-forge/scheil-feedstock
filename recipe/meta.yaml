@@ -17,11 +17,11 @@ build:
 
 requirements:
   host:
-    - python {{ python_min }}
+    - python >=3.11
     - pip
+    - setuptools
   run:
-    - python >={{ python_min }}
-    - importlib_metadata
+    - python >=3.11
     - numpy
     - scipy
     - setuptools_scm >=6.0
@@ -29,7 +29,7 @@ requirements:
 
 test:
   requires:
-    - python {{ python_min }}
+    - python >=3.11
   imports:
     - scheil
     - scheil.simulate
